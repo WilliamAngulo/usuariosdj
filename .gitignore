@@ -1,4 +1,4 @@
 # No deseo subir al respositorio el archivo secret.jason que està en la carpeta
 #  usuarios.  Y esta carpeta está en la carpeta raiz del repositorio
  
-usuarios/secret.jason
+usuarios/secret.json
