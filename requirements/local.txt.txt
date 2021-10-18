@@ -1,0 +1,3 @@
+unipath
+pillow
+psycopg2
